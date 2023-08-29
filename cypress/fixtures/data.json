@@ -1,0 +1,19 @@
+{
+  "password": "V@cirana11",
+  "task_name": "Checking the Microwave model 1 bulid quality",
+  "task_group_name": "tasks groups",
+  "check_name": "Barcode",
+  "validation_name": " Required Check",
+  "check_title": "units are wraped ",
+  "job_title": "Qa Tester",
+  "phone_number": "3000833097",
+  "country_name": "Pakistan",
+  "company_name": "seamcor016",
+  "email": "r.awais+test016@testsendr.link",
+  "department_name": "Test Department 1",
+  "department_description": "Test Department Description ",
+  "linked_entities": ["Areas", "Consumables"],
+  "linked_users": ["seamcor016"],
+  "entities_names": ["Areas", "Consumables"],
+  "category_name": "Test Category"
+}
